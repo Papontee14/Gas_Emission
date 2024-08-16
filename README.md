@@ -1,4 +1,4 @@
-# Project: Analysis of CO2 Emissions in Developed Countries
+# Analysis of CO2 Emissions in Developed Countries and Developing countries
 ## Overview
 This project aims to analyze the trends and patterns of carbon dioxide (CO2) emissions in developed countries and developing countries. By examining historical data and applying statistical analysis
 ## Objectives
